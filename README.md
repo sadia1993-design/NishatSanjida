@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishat Sanjida Sadia</h1>
-<h3 align="center">Profession Front-End developer </h3>
+<h3 align="center">Profession: Web developer </h3>
 <p align="center">Dhaka, Bangladesh</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadia1993-design&label=Profile%20views&color=0e75b6&style=flat" alt="sadia1993-design" /> </p>
