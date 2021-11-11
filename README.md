@@ -1,4 +1,4 @@
-<img src="https://themefo.net/wp-content/uploads/2021/11/nishatSanjida_webDeveloper.jpg" alt="Nishat Sanjida" width="1920" height="1080"/>
+<img src="https://themefo.net/wp-content/uploads/2021/11/nishatSanjida_webDeveloper.jpg" alt="Nishat Sanjida" width="1400" height="350"/>
 <h1 align="center">Hi 👋, I'm Nishat Sanjida Sadia</h1>
 <h3 align="center">Profession: Web developer </h3>
 <p align="center">Dhaka, Bangladesh</p>
