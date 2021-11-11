@@ -1,4 +1,4 @@
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="1920" height="1080"/>
 <h1 align="center">Hi 👋, I'm Nishat Sanjida Sadia</h1>
 <h3 align="center">Profession: Web developer </h3>
 <p align="center">Dhaka, Bangladesh</p>
