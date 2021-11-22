@@ -18,7 +18,7 @@
 <a href="https://twitter.com/nishat_sanjida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishat_sanjida" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishatsanjida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishatsanjida" height="30" width="40" /></a>
 <a href="https://fb.com/nutritionist.nishat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nutritionist.nishat" height="30" width="40" /></a>
-<a href="https://instagram.com/designer.sanjida1993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="designer.sanjida1993" height="30" width="40" /></a>
+<a href="https://www.instagram.com/developer.nishat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="designer.sanjida1993" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
