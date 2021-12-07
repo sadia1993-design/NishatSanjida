@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sadia1993-design&label=Profile%20views&color=0e75b6&style=flat" alt="sadia1993-design" /> </p> 
 <br>
-<p align="center">
+<p align="center" style="margin:0 auto">
 
  🌱 I’m currently learning **Angular Framework**
 
