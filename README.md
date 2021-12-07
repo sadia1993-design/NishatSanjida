@@ -5,14 +5,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sadia1993-design&label=Profile%20views&color=0e75b6&style=flat" alt="sadia1993-design" /> </p> 
 <br>
+<p align="center">
 
-                                                        - 🌱 I’m currently learning **Angular Framework**
+                                  - 🌱 I’m currently learning **Angular Framework**
 
-                                                        - 👨‍💻 All of my projects are available at [https://github.com/sadia1993-design](https://github.com/sadia1993-design)
+                                  - 👨‍💻 All of my projects are available at [https://github.com/sadia1993-design](https://github.com/sadia1993-design)
 
-                                                        - 💬 Ask me about **Angular, Typescript**
+                                  - 💬 Ask me about **Angular, Typescript**
 
-                                                        - 📫 How to reach me **sanjidan1993@gmail.com**
+                                  - 📫 How to reach me **sanjidan1993@gmail.com**
+  
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
