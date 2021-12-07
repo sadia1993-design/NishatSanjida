@@ -22,7 +22,7 @@
 </p>
 
 <a href="https://github.com/sadia1993-design/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadia1993-design&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadia1993-design&repo=https://github.com/sadia1993-design/NishatSanjida/edit/main/README.md" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
